@@ -1,0 +1,10 @@
+# Virtual environment settings
+.venv/
+venv
+
+# PyCharm settings
+.idea/
+*.iws
+
+#Crash logs
+out/
